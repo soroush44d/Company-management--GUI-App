@@ -1,3 +1,5 @@
+#####all Numbers and Names Are Fake :)####
+
 # create database DB_Project1;
 create table employee(
     emp_id int primary key ,
